@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/lnk3yjdneut3pq2l?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/ra-store-class)
+
+deployment:
+
 Страница интернет-магазина
 ===
 
